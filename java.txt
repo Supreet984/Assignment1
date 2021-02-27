@@ -1,0 +1,18 @@
+'a' & ""
+
+Separaters: (),{},[],;,.
+
+operators: 
+Airthmetic operators: +,-,*,/
+Assignment operator: =
+Relational operators: >,<, >=,<=, ==, !=
+Logical operators: &&, ||, !
+Increament / Decreament operator: ++, --
+	Postfix: i ++,i--(use  then change)
+	Prefix:	--i,--i(change then use)
+bitwise operators: >>,<<,>>>
+Conditional or ternary operator:?:,  (x==y)? true:false;
+Shorthand operators:
+
+
+
